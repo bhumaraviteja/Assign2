@@ -1,1 +1,2 @@
 this modification is to create a conflict and resolve
+It is a second modification
